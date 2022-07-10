@@ -1,3 +1,5 @@
+import './styles/global.css';
+
 const { faker } = require('@faker-js/faker');
 
 let musicData = '';

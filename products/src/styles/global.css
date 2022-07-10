@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.product-list {
+	padding: 1rem;
+	background: #eee;
+}
+.product-list h1 {
+	color: #222;
+	margin-bottom: 1rem;
+}
+
