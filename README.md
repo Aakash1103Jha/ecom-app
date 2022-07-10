@@ -3,6 +3,7 @@
 A small micro-frontend demo app. Each MFE app in this app can work as a standalone app in itself, and also can be integrated using Webpack, into `container` MFE app.
 
 ## Directory
+
     |-- cart/
           |-- public/
                 |-- index.html
@@ -30,6 +31,7 @@ A small micro-frontend demo app. Each MFE app in this app can work as a standalo
 
 ## Stack
 
-- HTML
-- Vanilla JS
-- Webpack (and WebpackFederationPlugin to enable code sharing between MFE apps.)
+-   HTML
+-   Vanilla JS
+-   Webpack (and ModuleFederationPlugin to enable code sharing between MFE apps.)
+
