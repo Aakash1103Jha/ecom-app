@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "microfrontend",
+    "html",
+    "css",
+    "javascript",
+    "webpack"
+  ],
   "author": "Aakash Jha <thedevdesigner@gmail.com> (https://www.thedevdesigner.com/)",
   "license": "ISC",
   "devDependencies": {
